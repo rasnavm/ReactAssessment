@@ -1,2 +1,0 @@
-# ReactAssessment
-Reward-Calculation
