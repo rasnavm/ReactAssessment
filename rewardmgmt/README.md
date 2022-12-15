@@ -4,7 +4,15 @@
 
 
 
+here we have 2 Tables,
 
+## Transaction
+Tabular form of our json data.
+
+## Reward Summary
+Reward Summary is created from Transaction ,here we have 3 extra columns Month(extracted from the trasactiondate),points(calculated points of each month) toatalrewards(totalpoints of the entire month).
+
+And also here i created a collapsible table too,from this it represents the all trascations of the perticular month.
 
 
 
