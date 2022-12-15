@@ -1,4 +1,13 @@
 ## Transaction Reward Calculation and UI dispaly without using any libraries
+
+![image](https://user-images.githubusercontent.com/88402774/207989807-be632ca1-371a-4205-97d1-4f50d17930f2.png)
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
